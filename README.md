@@ -71,3 +71,68 @@ Set time zone of the Operating System.
 ## Step 12
 
 ![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-12.png)
+
+Use entrie disk and set up LVM (Logical Volume Manager). 
+
+## Step 13
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-13.png)
+
+Select the disk partition.
+
+## Step 14
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-14.png)
+
+Confirm configuration and write to disk.
+
+## Step 15
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-15.png)
+
+Specify the size of the partion that you want to use. In this example we'll use the entire partition.
+
+## Step 16
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-16.png)
+
+Confirm configuration and write to disk.
+
+## Step 17
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-17.png)
+
+Configure HTTP proxy. In this example we'll not be using a proxy.
+
+## Step 18
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-18.png)
+
+Select behaviour of Operating System Updates.
+
+## Step 19
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-19.png)
+
+Choose software to install. In this example we'll install 'standard system utilities' and 'OpenSSH server'.
+
+## Step 20
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-20.png)
+
+Install the GRUB boot loader to the master boot record.
+
+## Step 21
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-21.png)
+
+Installation is complete. Remove the installation media and continue.
+
+## Step 22
+
+![](https://github.com/barend-erasmus/linux-install/raw/master/images/image-22.png)
+
+Welcome to Ubuntu 17.04
+
+
+
